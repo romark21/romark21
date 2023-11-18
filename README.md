@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="www.linkedin.com/in/romans-sveds">
+  <a href="https://www.linkedin.com/in/romans-sveds">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="t.me/@RoMark2110">
