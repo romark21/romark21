@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/romans-sveds">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="t.me/@RoMark2110">
+  <a href="https://t.me/RoMark2110">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
