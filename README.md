@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/RoMark2110">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=romark21&style=flat-square&color=blue" alt=""/>
@@ -27,7 +27,7 @@ I am a Python beck-end Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve tasks online and write my own programs.
 - :running_man: I strive for continuous self-improvement and am always ready to learn new technologies and development methods. I enjoy solving complex problems and finding effective solutions to improve productivity and software quality.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](romansveds@gmail.com)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110) 
 </div>
 
 ---
