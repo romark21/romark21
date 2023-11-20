@@ -14,3 +14,32 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
+<div id="obout" align="left">
+  
+### :man_technologist: <b>About Me</b> :
+  
+I am a Python beck-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Latvia.
+  
+- :telescope: I’m working as a Software Engineer and contributing to backend for building programs and applications.
+
+- :seedling: Interested in and learning about automated testing (Agile).
+
+- :zap: In my free time, I solve tasks online and write my own programs.
+- :running_man: I strive for continuous self-improvement and am always ready to learn new technologies and development methods. I enjoy solving complex problems and finding effective solutions to improve productivity and software quality.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](romansveds@gmail.com)
+</div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=romark21&theme=ocean-gradient&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romark21&layout=donut-vertical&theme=react)](https://github.com/anuraghazra/github-readme-stats)
