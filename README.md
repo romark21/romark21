@@ -18,7 +18,7 @@
   
 ### :man_technologist: <b>About Me</b> :
   
-I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Latvia.
+I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Riga, Latvia.
   
 - :telescope: I’m working as a Software Engineer and contributing to backend for building programs and applications.
 
