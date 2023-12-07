@@ -16,7 +16,6 @@
 </h1>
  </div> 
 
-
 ### :man_technologist: <b>About Me</b> :
   
 I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Riga, Latvia.
@@ -29,11 +28,11 @@ I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :running_man: I strive for continuous self-improvement and am always ready to learn new technologies and development methods. I enjoy solving complex problems and finding effective solutions to improve productivity and software quality.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110) 
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110) 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -41,7 +40,7 @@ I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=romark21&theme=ocean-gradient&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romark21&layout=donut-vertical&theme=react)](https://github.com/anuraghazra/github-readme-stats)
