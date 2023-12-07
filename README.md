@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/romans-sveds">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,22 +14,22 @@
   Hi, My name is Romans
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
-<div id="obout" align="left">
-  
+ </div> 
+
+
 ### :man_technologist: <b>About Me</b> :
   
 I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Riga, Latvia.
   
 - :telescope: I’m working as a Software Engineer and contributing to backend for building programs and applications.
 
-- :seedling: Interested in and learning about automated testing (Agile).
+- :seedling: Interested in and learning about automation testing.
 
 - :zap: In my free time, I solve tasks online and write my own programs.
+
 - :running_man: I strive for continuous self-improvement and am always ready to learn new technologies and development methods. I enjoy solving complex problems and finding effective solutions to improve productivity and software quality.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110) 
-</div>
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-RoMark2110-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoMark2110) 
 
 ---
 
