@@ -45,7 +45,7 @@ I am a Junior Data Engineer| BI Developer | Data Analyst <img src="https://media
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 [![Pentaho](https://img.shields.io/badge/Pentaho-blue?logo=pentaho&logoColor=white)](https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-platform.html)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MetaBase](https://img.shields.io/badge/meta_base-F2C811?style=for-the-badge&logo=metabase&logoColor=black)
+![MetaBase](https://img.shields.io/badge/meta_base-07BFF?style=for-the-badge&logo=metabase&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
