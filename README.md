@@ -20,7 +20,7 @@
   
 I am a Junior Data Engineer| BI Developer | Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Riga, Latvia.
   
-- :telescope: Technical Skills: Excel, SQL(PostgreSQL, BigQuery), PowerBI(DAX, M language), Metabase, basics of ETL, basics of data, Pyton(Pandas, Requests, BeautifulSoup, Selenium)
+- :telescope: Technical Skills: Excel, SQL(PostgreSQL, BigQuery), PowerBI(DAX, M language), Metabase, basics of ETL, basics of data, Pyton(Pandas, NumPy, Requests, BeautifulSoup, Selenium, Pytest)
 
 - :seedling: Interested in and learning about automation testing.
 
@@ -36,11 +36,19 @@ I am a Junior Data Engineer| BI Developer | Data Analyst <img src="https://media
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Pentaho](https://img.shields.io/badge/Pentaho-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 
 ---
