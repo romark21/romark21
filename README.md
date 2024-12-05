@@ -18,9 +18,9 @@
 
 ### :man_technologist: <b>About Me</b> :
   
-I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Riga, Latvia.
+I am a Junior Data Engineer| BI Developer | Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Riga, Latvia.
   
-- :telescope: I’m working as a Software Engineer and contributing to backend for building programs and applications.
+- :telescope: Technical Skills: Excel, SQL(PostgreSQL, BigQuery), PowerBI(DAX, M language), Metabase, basics of ETL, basics of data, Pyton(Pandas, Requests, BeautifulSoup, Selenium)
 
 - :seedling: Interested in and learning about automation testing.
 
@@ -36,6 +36,7 @@ I am a Python back-end Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
